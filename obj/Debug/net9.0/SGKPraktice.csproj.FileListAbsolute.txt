@@ -1,0 +1,14 @@
+C:\Users\lvd\RiderProjects\SGKPraktice\bin\Debug\net9.0\SGKPraktice.exe
+C:\Users\lvd\RiderProjects\SGKPraktice\bin\Debug\net9.0\SGKPraktice.deps.json
+C:\Users\lvd\RiderProjects\SGKPraktice\bin\Debug\net9.0\SGKPraktice.runtimeconfig.json
+C:\Users\lvd\RiderProjects\SGKPraktice\bin\Debug\net9.0\SGKPraktice.dll
+C:\Users\lvd\RiderProjects\SGKPraktice\bin\Debug\net9.0\SGKPraktice.pdb
+C:\Users\lvd\RiderProjects\SGKPraktice\obj\Debug\net9.0\SGKPraktice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvd\RiderProjects\SGKPraktice\obj\Debug\net9.0\SGKPraktice.AssemblyInfoInputs.cache
+C:\Users\lvd\RiderProjects\SGKPraktice\obj\Debug\net9.0\SGKPraktice.AssemblyInfo.cs
+C:\Users\lvd\RiderProjects\SGKPraktice\obj\Debug\net9.0\SGKPraktice.csproj.CoreCompileInputs.cache
+C:\Users\lvd\RiderProjects\SGKPraktice\obj\Debug\net9.0\SGKPraktice.dll
+C:\Users\lvd\RiderProjects\SGKPraktice\obj\Debug\net9.0\refint\SGKPraktice.dll
+C:\Users\lvd\RiderProjects\SGKPraktice\obj\Debug\net9.0\SGKPraktice.pdb
+C:\Users\lvd\RiderProjects\SGKPraktice\obj\Debug\net9.0\SGKPraktice.genruntimeconfig.cache
+C:\Users\lvd\RiderProjects\SGKPraktice\obj\Debug\net9.0\ref\SGKPraktice.dll
